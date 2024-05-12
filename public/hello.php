@@ -8,6 +8,9 @@
     <title>Document</title>
 </head>
 <body>
-    <!-- この領域(bodyタグ内)に処理内容を入れてください -->
+    <?php
+        echo '<p>Hello,PHP</p>';
+    ?>　<!-- ⑥ -->
+    <p>0J04011小泉聡一朗</p>
 </body>
 </html>
